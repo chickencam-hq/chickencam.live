@@ -1,0 +1,31 @@
+body {
+    background-color: #FAB513;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header img{
+    width: 820px;
+}
+
+main {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.chickencam {
+    margin-bottom: 20px;
+}
+
+.chickencam img{
+    border-color: white;
+    border-width: 6px;
+    border-style: solid;
+}
+
+.donate {
+    line-height: 166%;
+}
